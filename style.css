@@ -1,0 +1,10 @@
+#printbox {
+border: 5px solid #1C6EA4;
+  width: 500px;
+}
+
+.field{
+border: 5px solid #1C6EA4;
+  width: 500px;
+  height: 200px;
+}
